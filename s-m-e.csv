@@ -1,0 +1,129 @@
+﻿sname,Molecule,Effect
+Aaptos aaptos,4-methylaaptamine,HSV1
+Cryptotethya crypta,Ara-A,HSV1-HSV2-VZV
+Dysidea avara,Avarol,HIV1
+Halicortex sp,Dragmacidin F,HSV1
+Hamigera tarangaensis,Hamigeran B,herpes-polio 
+Sidonops microspinosa,Microspinosamide,HIV1
+Mycale sp,Mycalamide A,coronavirus-HSV1
+Mycale sp,Mycalamide B,coronavirus-HSV1
+Theonella sp,Papuamides A,HIV1
+Theonella sp,Papuamides B,HIV1
+Theonella sp,Papuamides C,HIV1
+Theonella sp,Papuamides D,HIV1
+Agelas sp,Agelasines ,C.krusei
+Agelas sp,agelasimines,C.krusei
+Arenosclera brasiliensis,Arenosclerins A,C.albicans
+Arenosclera brasiliensis,Arenosclerins B,C.albicans
+Arenosclera brasiliensis,Arenosclerins C,C.albicans
+Arenosclera brasiliensis,clamine E,C.albicans
+Discodermia sp,Discobahamin A,C.albicans
+Discodermia sp,Discobahamin B,C.albicans
+Euryspongia sp,Eurysterols A,C.albicans
+Euryspongia sp,Eurysterols B,C.albicans
+Jaspis sp,Jasplakinolide ,C.albicans
+Acanthostrongylophora sp,Manzamine A,C.neoformans
+Leucetta cf chagosensis,Naamine D,C.neoformans
+Luffariella variabilis,Secomanoalide,C.glabrata-C.krusei-C.albicans
+Agelas oroides,(E)-Oroidin,P.falciparum
+Myrmekioderma styx,(S)-(+)-curcuphenol,L.donovani
+Monanchora unguifera,1 8a;8b 3a-didehydro-8B-hydroxyptilocaulin,P.falciparum
+Monanchora unguifera,1 8a;8b 3a-didehydro-8B-hydroxyptilocaulin,P.falciparum
+Agelas sp,Agelasine ,A.castellanii-A.polyphaga
+Cliona varians,CvL,L.chagasi
+Cymbastela hooperi,Diisocyanoadociane,P.falciparum
+Acanthella sp,Kalihinol A,P.falciparum
+several sponge species,Manzamine A,T.gondii-P.berghei-P.falciparum
+Monanchora unguifera,Mirabilin B,L.donovani
+Pachymatisma johnstonii,Pachymatismin,Leishmania sp
+Plakinastrella onkodes,Plakortide,T.gondii
+Plakortis simplex,Plakortin ,P.falciparum
+Plakortis simplex,dihydroplakortin,P.falciparum
+Diacarnus erythraeanus,Sigmosceptrellin B,T.gondii-P.falciparum
+Myrmekioderma styx,(S)-(+)-curcuphenol,M.tuberculosis
+Acanthostrongylophora sp,6 hydroxymanzamine E,M.tuberculosis
+Agelas sp,Agelasine D,M.tuberculosis
+Arenosclera brasiliensis,Arenosclerins A,MRSA-P.aeruginosa
+Arenosclera brasiliensis,Arenosclerins B,MRSA-P.aeruginosa
+Arenosclera brasiliensis,Arenosclerins C,MRSA-P.aeruginosa
+Axinella sp,Axinellamines B,H.pylori
+Axinella sp,Axinellamines C,H.pylori
+Axinella sp,Axinellamines D,H.pylori
+Oceanapia sp,C14 acetylenic acid,E.coli-P.aeruginosa-B.subtillis-S.aureus
+Caminus sphaeroconia,Caminosides A,E.coli
+Caminus sphaeroconia,Caminosides B,E.coli
+Caminus sphaeroconia,Caminosides C,E.coli
+Caminus sphaeroconia,Caminosides D,E.coli
+Aka coralliphaga,Corallidictyals A,S.aureus
+Aka coralliphaga,Corallidictyals B,S.aureus
+Aka coralliphaga,Corallidictyals C,S.aureus
+Aka coralliphaga,Corallidictyals D,S.aureus
+Cribrochalina sp,Cribrostatin 3,N.gonorrheae 
+Cribrochalina sp,Cribrostatin 6,S.pneumoniae
+Cliona varians,CvL,B.subtilis-S.aureus
+Pachychalina sp,Cyclostellettamines A,MRSA-P.aeruginosa-M.tuberculosis
+Pachychalina sp,Cyclostellettamines B,MRSA-P.aeruginosa-M.tuberculosis
+Pachychalina sp,Cyclostellettamines C,MRSA-P.aeruginosa-M.tuberculosis
+Pachychalina sp,Cyclostellettamines D,MRSA-P.aeruginosa-M.tuberculosis
+Pachychalina sp,Cyclostellettamines E,MRSA-P.aeruginosa-M.tuberculosis
+Pachychalina sp,Cyclostellettamines F,MRSA-P.aeruginosa-M.tuberculosis
+Pachychalina sp,Cyclostellettamines G,MRSA-P.aeruginosa-M.tuberculosis
+Pachychalina sp,Cyclostellettamines H,MRSA-P.aeruginosa-M.tuberculosis
+Pachychalina sp,Cyclostellettamines I,MRSA-P.aeruginosa-M.tuberculosis
+Pachychalina sp,Cyclostellettamines k,MRSA-P.aeruginosa-M.tuberculosis
+Pachychalina sp,Cyclostellettamines L,MRSA-P.aeruginosa-M.tuberculosis
+Spongosorites sp,Deoxytopsentin,MRSA
+Arenosclera brasiliensis,Haliclonacyclamine E,MRSA-P.aeruginosa
+Spongosorites sp,Hamacanthin A,MRSA 
+Pachychalina sp,Ingenamine G,MRSA-E. coli-M.tuberculosis
+Cacospongia sp,Isojaspic acid,S.epidermidis
+Cacospongia sp,cacospongin D,S.epidermidis
+Cacospongia sp,jaspaquinol,S.epidermidis
+Negombata magnifica,Latrunculins,S.aureus-B.cereus
+Melophlus sarassinorum,Melophlin C,B.subtilis-S.aureus
+Oceanapia sp,Petrosamine B,H.pylori
+Discodermia sp,Polydiscamide A,B.subtilis
+Psammaplysilla,Psammaplin A,MRSA 
+Dysidea granulosa,2(2’4’-Dibromophenoxy)4 6dibromophenol,antibacterial
+Theonella swinhoei,Swinholide J,Cytotoxic
+Erylus discophorus,polysaccharides,antiHIV
+Spongosorites sp,6debromohamacanthin A,antiangiogenic
+Hyrtios Sp,Hyrtioerectines,antimicrobial
+Hyrtios sp,Hyrtioerectines,Antioxidant
+Callyspongia siphonella,Sipholenol A,growth inhibition
+Phorbas sp,Phorbaketal A,Antiinflammation
+Stichodactyla helianthus,Sticholysin II,anticancer
+Heteractis crispa,HCRG21,TRPV1 receptor antagonist
+Echinomuricea sp,diterpenoid 1,Cytotoxic
+Hyrtio erectus,Hyrtiomanzamine 1,Cytotoxic
+Hyrtio erectus,Hyrtiomanzamine 4,immunosuppressive
+Hyrtio erectus,sesterstatins 4,growth inhibition
+Hyrtio erectus,sesterstatins 5,growth inhibition
+Hyrtio erectus,sesterstatins 5,Micrococcus luteus
+Hyrtio erectus,homofascaplysin A,P.falciparum
+Hyrtio erectus,fascaplysin,P.falciparum
+Hyrtio erectus,salmahyrtisol A,Cytotoxic
+Hyrtio erectus,3-acetyl sesterstatin,Cytotoxic
+Hyrtio erectus,19-acetyl sesterstatin,Cytotoxic
+Hyrtio erectus,salmahyrtisol B,Cytotoxic
+Hyrtio erectus,sesterstatin 7,M.tuberculosis
+Hyrtio erectus,16-epi-scalarolbutenolide,M.tuberculosis
+Hyrtio erectus,25-dehydroxy-12-epi-deacetylscalarin,M.tuberculosis
+Hyrtio erectus,3-acetylsesterstatin 1,M.tuberculosis
+Hyrtio erectus,Sesterstatin 6,anticancer
+Hyrtio erectus,12deacetyl∆17hyrtial,antiproliferative
+Hyrtio erectus,12deacetylhyrtial,antiproliferative
+Hyrtio erectus,hyrtiazepine,antiphospholipase A2
+Hyrtio erectus,5hydroxy1Hindole3carboxylic acid methyl ester,antiphospholipase A2
+Hyrtio erectus,hyrtiosulawesine,antiphospholipase A2
+Hyrtio erectus,5hydroxyindole3carbaldehyde,antiphospholipase A2
+Hyrtio erectus,hyrtiosin A,antiphospholipase A2
+Hyrtio erectus,hyrtiosin B,antiphospholipase A2
+Hyrtio erectus,Hyrtiosulawesine,antiphospholipase A2
+Hyrtio erectus,16-hydroxyscalarolide,growth inhibition
+Hyrtio erectus,indole3carbaldehyde,growth inhibition
+Hyrtio reticulatus,Hyrtiocarboline,anticancer
+Hyrtio reticulatus,hyrtioreticulins A,ubiquitinactivating enzyme inhibitor
+Hyrtio reticulatus,hyrtioreticulin B,ubiquitinactivating enzyme inhibitor
+Hyrtio communis,luffariellolide,cytotoxic
+Amphimedon chloros,3alkylpyridinium,wnv ns53 protease inhibitor
