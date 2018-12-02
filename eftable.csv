@@ -1,0 +1,129 @@
+effectid,Effect
+1,HSV1
+2,P.falciparum
+3,C.neoformans
+3,M.tuberculosis
+4,P.falciparum
+5,C.krusei
+5,C.krusei
+5,A.castellanii-A.polyphaga
+5,M.tuberculosis
+6,S.aureus
+6,S.aureus
+6,S.aureus
+6,S.aureus
+7,wnv ns53 protease inhibitor
+8,C.albicans
+8,C.albicans
+8,C.albicans
+8,C.albicans
+8,MRSA-P.aeruginosa
+8,MRSA-P.aeruginosa
+8,MRSA-P.aeruginosa
+8,MRSA-P.aeruginosa
+9,H.pylori
+9,H.pylori
+9,H.pylori
+10,S.epidermidis
+10,S.epidermidis
+10,S.epidermidis
+11,growth inhibition
+12,E.coli
+12,E.coli
+12,E.coli
+12,E.coli
+13,L.chagasi
+13,B.subtilis-S.aureus
+14,N.gonorrheae
+14,S.pneumoniae
+15,HSV1-HSV2-VZV
+16,P.falciparum
+17,T.gondii-P.falciparum
+18,C.albicans
+18,C.albicans
+18,B.subtilis
+19,HIV1
+19,antibacterial
+20,Cytotoxic
+21,antiHIV
+22,C.albicans
+22,C.albicans
+23,HSV1
+24,herpes-polio
+25,TRPV1 receptor antagonist
+26,cytotoxic
+27,Cytotoxic
+27,immunosuppressive
+27,growth inhibition
+27,growth inhibition
+27,Micrococcus luteus
+27,P.falciparum
+27,P.falciparum
+27,Cytotoxic
+27,Cytotoxic
+27,Cytotoxic
+27,Cytotoxic
+27,M.tuberculosis
+27,M.tuberculosis
+27,M.tuberculosis
+27,M.tuberculosis
+27,anticancer
+27,antiproliferative
+27,antiproliferative
+27,antiphospholipase A2
+27,antiphospholipase A2
+27,antiphospholipase A2
+27,antiphospholipase A2
+27,antiphospholipase A2
+27,antiphospholipase A2
+27,antiphospholipase A2
+27,growth inhibition
+27,growth inhibition
+28,anticancer
+28,ubiquitinactivating enzyme inhibitor
+28,ubiquitinactivating enzyme inhibitor
+29,antimicrobial
+29,Antioxidant
+30,C.albicans
+31,C.neoformans
+32,C.glabrata-C.krusei-C.albicans
+33,B.subtilis-S.aureus
+34,P.falciparum
+34,P.falciparum
+34,L.donovani
+35,coronavirus-HSV1
+35,coronavirus-HSV1
+36,L.donovani
+36,M.tuberculosis
+37,S.aureus-B.cereus
+38,E.coli-P.aeruginosa-B.subtillis-S.aureus
+38,H.pylori
+39,MRSA-P.aeruginosa-M.tuberculosis
+39,MRSA-P.aeruginosa-M.tuberculosis
+39,MRSA-P.aeruginosa-M.tuberculosis
+39,MRSA-P.aeruginosa-M.tuberculosis
+39,MRSA-P.aeruginosa-M.tuberculosis
+39,MRSA-P.aeruginosa-M.tuberculosis
+39,MRSA-P.aeruginosa-M.tuberculosis
+39,MRSA-P.aeruginosa-M.tuberculosis
+39,MRSA-P.aeruginosa-M.tuberculosis
+39,MRSA-P.aeruginosa-M.tuberculosis
+39,MRSA-P.aeruginosa-M.tuberculosis
+39,MRSA-E. coli-M.tuberculosis
+40,Leishmania sp
+41,Antiinflammation
+42,T.gondii
+43,P.falciparum
+43,P.falciparum
+44,MRSA
+45,T.gondii-P.berghei-P.falciparum
+46,HIV1
+47,MRSA
+47,MRSA
+47,antiangiogenic
+48,anticancer
+49,HIV1
+49,HIV1
+49,HIV1
+49,HIV1
+50,Cytotoxic
