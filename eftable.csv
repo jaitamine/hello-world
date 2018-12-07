@@ -1,0 +1,45 @@
+effid,effect
+1,A.castellanii
+2,A.polyphaga
+3,antiangiogenic
+4,antibacterial
+5,anticancer
+6,antiHIV
+7,Antiinflammation
+8,Antioxidant
+9,antiphospholipase A2
+10,antiproliferative
+11,B.cereus
+12,B.subtilis
+13,C.albicans
+14,C.glabrata
+15,C.krusei
+16,C.neoformans
+17,coronavirus
+18,Cytotoxic
+19,E.coli
+20,growth inhibition
+21,H.pylori
+22,HIV1
+23,HSV1
+24,HSV2
+25,immunosuppressive
+26,L.chagasi
+27,L.donovani
+28,Leishmania sp
+29,M.tuberculosis
+30,Micrococcus luteus
+31,MRSA
+32,N.gonorrheae
+33,P.aeruginosa
+34,P.berghei
+35,P.falciparum
+36,polio virus
+37,S.aureus
+38,S.epidermidis
+39,S.pneumoniae
+40,T.gondii
+41,TRPV1 receptor antagonist
+42,ubiquitinactivating enzyme inhibitor
+43,Varicella zoster virus
+44,west nile virus
